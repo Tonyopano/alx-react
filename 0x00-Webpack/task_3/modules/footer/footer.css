@@ -1,0 +1,3 @@
+body > p:last-child {
+    color:lightslategrey;
+}
