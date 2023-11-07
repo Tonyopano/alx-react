@@ -1,0 +1,1 @@
+React inline styling
